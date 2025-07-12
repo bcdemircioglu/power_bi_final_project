@@ -1,3 +1,5 @@
+**🔗 [Click here to view the Power BI project](https://drive.google.com/drive/folders/1qlqr5I3VHnWtGMOtp2dRsGMz7xLUoytH?usp=drive_link)**  
+
 # 📊 E-Ticaret Raporlama Power BI Projesi
 
 Bu proje, Power BI kullanılarak geliştirilmiş bir **e-ticaret raporlama** çözümüdür. Rapor, işletmelerin müşteri davranışlarını, satış performansını ve kategori bazlı analizlerini görsel olarak incelemelerine olanak tanır.
