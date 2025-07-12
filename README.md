@@ -1,4 +1,4 @@
-**🔗 [Click here to view the Power BI project](https://drive.google.com/drive/folders/1qlqr5I3VHnWtGMOtp2dRsGMz7xLUoytH?usp=drive_link)**  
+**🔗 [Projeyi indirmek için tıklayınız](https://drive.google.com/drive/folders/1qlqr5I3VHnWtGMOtp2dRsGMz7xLUoytH?usp=drive_link)**  
 
 # 📊 E-Ticaret Raporlama Power BI Projesi
 
