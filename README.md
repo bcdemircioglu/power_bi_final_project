@@ -40,7 +40,7 @@ Bu proje, Power BI kullanılarak geliştirilmiş bir **e-ticaret raporlama** ç�
 ## 📁 Dosya İçeriği
 
 - `project_v2.pbix` – Power BI rapor dosyası  
-> **Not:** Dosya boyutu büyük olduğu için GitHub’a doğrudan yüklenememiştir. Proje ## https://drive.google.com/drive/folders/1qlqr5I3VHnWtGMOtp2dRsGMz7xLUoytH?usp=drive_link linkinden indirilebilir.
+> **Not:** Dosya boyutu büyük olduğu için GitHub’a doğrudan yüklenememiştir. Proje https://drive.google.com/drive/folders/1qlqr5I3VHnWtGMOtp2dRsGMz7xLUoytH?usp=drive_link linkinden indirilebilir.
 
 ---
 
